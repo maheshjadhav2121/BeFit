@@ -61,7 +61,7 @@ const Footer = () => (
     </Typography>
     <br />
     <Typography variant="body2" sx={{ textAlign: "center", color: "#888" }}>
-      © {new Date().getFullYear()} BeFit. All rights reserved.
+      © {new Date().getFullYear()} BeFit All rights reserved.
     </Typography>
     <br />
   </Box>
